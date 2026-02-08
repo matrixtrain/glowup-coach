@@ -49,8 +49,3 @@ GlowUpCoach AI is a **premium, interactive platform** that guides users step-by-
 - **AI:** GPT-based coaching & personalization
 - **Deployment:** Vercel / Netlify / AWS
 
----
-
-## Folder Structure
-
-
